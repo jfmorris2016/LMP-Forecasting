@@ -1,2 +1,2 @@
 # LMP-Forecasting
-Forecasting PJM locational marginal prices with neural networks
+Forecasting PJM Locational Marginal Prices with Neural Networks

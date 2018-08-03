@@ -5,7 +5,7 @@ A more in depth explanation of the code is in the Jupyter Notebook file.
 
 This LMP-Forecasting repository includes:
 
- - One Jupyter Notebook - 'LMP Forecasting.ipynb'
+ - One Jupyter Notebook - 'LMP Forecasting.ipynb' - I would advise downloading this and using Jupyter Notebook instead of reading it within GitHub. The code got scrunched and hard to read. 
  - One PowerPoint presentation - 'LMP Research Project - Jack Morris.pptx'
  - Nine .csv files with the feature information
     - 'PJM_LMP_loss_cong.csv'
